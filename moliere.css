@@ -22,6 +22,11 @@
     font-family: 'Times New Roman';
 }
 
+.name:hover{
+    text-shadow: 5px 5px 2px greenyellow;
+    border: dashed 2px rebeccapurple;
+}
+
 .Orgon{color:brown}
 .Elmire{color: coral;}
 
