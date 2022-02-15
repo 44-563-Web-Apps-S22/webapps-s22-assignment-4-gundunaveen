@@ -26,7 +26,7 @@
 .Elmire{color: coral;}
 
 table, th, tr, td{
-    border: solid;
+    border: solid 3px black;
     color: rgb(24, 1, 46);
     text-align: center;
     border-collapse: collapse;
