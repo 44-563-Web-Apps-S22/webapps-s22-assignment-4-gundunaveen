@@ -27,7 +27,7 @@
 
 table, th, tr, td{
     border: solid;
-    color: cyan;
+    color: rgb(24, 1, 46);
     text-align: center;
     border-collapse: collapse;
     margin: 10px;
