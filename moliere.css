@@ -25,3 +25,17 @@
 .Orgon{color:brown}
 .Elmire{color: coral;}
 
+table, th, tr, td{
+    border: solid;
+    color: cyan;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 10px;
+    padding: 10px;
+}
+th{
+    background-color: darkorchid;
+}
+tr:nth-child(even){
+    background-color: beige;
+}
